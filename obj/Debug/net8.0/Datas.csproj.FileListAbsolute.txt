@@ -1,0 +1,14 @@
+C:\Users\thais.da.costa\Documents\ESTUDOS\Datas\bin\Debug\net8.0\Datas.exe
+C:\Users\thais.da.costa\Documents\ESTUDOS\Datas\bin\Debug\net8.0\Datas.deps.json
+C:\Users\thais.da.costa\Documents\ESTUDOS\Datas\bin\Debug\net8.0\Datas.runtimeconfig.json
+C:\Users\thais.da.costa\Documents\ESTUDOS\Datas\bin\Debug\net8.0\Datas.dll
+C:\Users\thais.da.costa\Documents\ESTUDOS\Datas\bin\Debug\net8.0\Datas.pdb
+C:\Users\thais.da.costa\Documents\ESTUDOS\Datas\obj\Debug\net8.0\Datas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thais.da.costa\Documents\ESTUDOS\Datas\obj\Debug\net8.0\Datas.AssemblyInfoInputs.cache
+C:\Users\thais.da.costa\Documents\ESTUDOS\Datas\obj\Debug\net8.0\Datas.AssemblyInfo.cs
+C:\Users\thais.da.costa\Documents\ESTUDOS\Datas\obj\Debug\net8.0\Datas.csproj.CoreCompileInputs.cache
+C:\Users\thais.da.costa\Documents\ESTUDOS\Datas\obj\Debug\net8.0\Datas.dll
+C:\Users\thais.da.costa\Documents\ESTUDOS\Datas\obj\Debug\net8.0\refint\Datas.dll
+C:\Users\thais.da.costa\Documents\ESTUDOS\Datas\obj\Debug\net8.0\Datas.pdb
+C:\Users\thais.da.costa\Documents\ESTUDOS\Datas\obj\Debug\net8.0\Datas.genruntimeconfig.cache
+C:\Users\thais.da.costa\Documents\ESTUDOS\Datas\obj\Debug\net8.0\ref\Datas.dll
